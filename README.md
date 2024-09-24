@@ -1,6 +1,6 @@
 ## BeikeShop 商城预览视频
 
-[![BeikeShop 商城预览视频](https://cdnx.beikeshop.com/image/gif/demo.gif)](https://demo.beikeshop.com/)
+[![BeikeShop 商城预览视频](https://cdnx.beikeshop.com/videos/home_features.mp4)](https://demo.beikeshop.com/)
 
 
 ## 页面展示
