@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://demo.beikeshop.com/" target="_blank" style="border: 1px solid #eee; display: inline-block;">
-    <img src="https://beikeshop.com/image/gif/demo.gif" style="width: 100%;">
+    <img src="[https://beikeshop.com/image/gif/demo.gif](https://media4.giphy.com/media/2dQ3FMaMFccpi/giphy.gif?cid=790b7611pk4gmosl22jqgbi3hlgj2calg7obay5pkeevvp4y&ep=v1_gifs_trending&rid=giphy.gif&ct=g)" style="width: 100%;">
 </a>
 </p>
 
