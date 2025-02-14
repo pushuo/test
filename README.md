@@ -6,7 +6,7 @@
 </p>
 
 
-## 页面展示 1224
+## 页面展示 12245
 
 ![页面展示1_商城DIY装修](https://cdnx.beikeshop.com/readme/README-3.png)
 ![页面展示2_商品列表页](https://cdnx.beikeshop.com/readme/README-4.png)
